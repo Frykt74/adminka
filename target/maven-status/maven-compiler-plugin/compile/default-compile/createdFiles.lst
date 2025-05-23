@@ -1,9 +1,0 @@
-org\deploy\adminka\controller\AnimalController.class
-org\deploy\adminka\repository\AnimalRepository.class
-org\deploy\adminka\animalapi\DataLoader.class
-org\deploy\adminka\models\Animal.class
-org\deploy\adminka\controller\HealthCheckController.class
-org\deploy\adminka\repository\HabitatRepository.class
-org\deploy\adminka\models\Habitat.class
-org\deploy\adminka\AdminkaApplication.class
-org\deploy\adminka\controller\HabitatController.class
